@@ -4,3 +4,5 @@
 .Ruserdata
 .pdf
 .html
+/slides/*
+/dbase/*
